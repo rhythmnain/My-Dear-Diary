@@ -32,3 +32,19 @@ body {
     text-decoration: underline;
   }
   
+  .prompt-container {
+    background-color: #ffebcc;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .prompt-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
