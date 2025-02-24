@@ -6,6 +6,8 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import Navbar from "./components/Navbar";
+import MoodTracker from "./components/MoodTracker";
+import Notifications from "./components/Notifications";
 import './styles/global.css';
 
 function App() {
@@ -26,6 +28,12 @@ function App() {
           <Route path="/dashboard" element={<Dashboard />} />
         </Routes>
       </div>
+      
+      <div>
+      <h1>My Dear Diary</h1>
+      <MoodTracker />
+      <Notifications />
+    </div>
     </Router>
   );
 }

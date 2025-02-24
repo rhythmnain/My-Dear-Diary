@@ -1,0 +1,42 @@
+/* 🌟 Mood Tracker Styles */
+.mood-tracker {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .mood-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  
+  .mood-buttons button {
+    font-size: 30px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .mood-buttons button:hover {
+    transform: scale(1.2);
+  }
+  
+  .selected {
+    border: 2px solid #ff9800;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
+  .selected-mood {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
