@@ -34,3 +34,20 @@ frontend/.env
 backend/node_modules/
 backend/.env
 backend/logs/
+
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
