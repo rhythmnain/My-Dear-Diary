@@ -4,6 +4,7 @@ My-Dear-Diary is an AI-powered digital journal that enhances user engagement thr
 📌I have enhanced the My-Dear-Diary project by adding two major features:
 
 1️⃣ Mood Tracker
+
 Feature: Allows users to log their mood using emojis or sentiment analysis based on their diary entries.
 
 Efficiency Boost: Improved mood-based journaling by 45%, making it easier for users to reflect on their emotions over time.
@@ -12,6 +13,7 @@ Difference from Existing Systems: Unlike traditional journaling apps, which only
 
 
 2️⃣ Daily Reminders (Push Notifications)
+
 Feature: Sends daily notifications to remind users to write in their diary.
 
 Efficiency Boost: Increased user engagement by 52%, ensuring regular journaling habits.
@@ -20,6 +22,7 @@ Difference from Existing Systems: Unlike generic reminders in calendar apps, the
 
 
 🚀 Key Impact on the Project
+
 ✅ Enhanced user engagement by 52% through timely notifications.
 
 ✅ Improved journaling efficiency by 45% by integrating a Mood Tracker with emojis/sentiment analysis.
